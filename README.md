@@ -1,7 +1,5 @@
 # NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP
 
-Here is a professional and structured `README.md` tailored for your GitHub repository. It highlights your bare-metal Kali Linux installation, terminal workflow, and initial exploration.
-
 ---
 
 # Kali Linux Journey & Terminal Exploration
@@ -18,12 +16,6 @@ This repository serves as a personal log and showcase of my initial steps, confi
 * **Terminal Proficiency:** Practicing essential shell commands, navigating the Linux filesystem, managing permissions, and utilizing built-in utilities.
 * **Video Demonstration:** Includes an introductory video walkthrough showcasing the freshly installed desktop environment and live terminal command execution.
 
-## Repository Structure
-
-```text
-├── assets/             # Contains screenshots, media, or the intro video demo
-├── scripts/            # Any custom shell scripts or configuration snippets
-└── README.md           # Project documentation
 
 ```
 
