@@ -17,10 +17,10 @@ This repository serves as a personal log and showcase of my initial steps, confi
 * **Video Demonstration:** Includes an introductory video walkthrough showcasing the freshly installed desktop environment and live terminal command execution.
 
 
-```
+
 
 ## Getting Started / Demo
 
 Check out the included introductory video in the repository to see a quick walkthrough of the native Kali Linux desktop interface and basic terminal commands in action.
 
----
+
